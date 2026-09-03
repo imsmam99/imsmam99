@@ -8,4 +8,4 @@
 ## 🔗 My Projects
 - [Road Accident Analysis (Power BI)] https://github.com/imsmam99/Road-Accident-Analysis.git
 - [Sales Analysis (Python)] https://github.com/imsmam99/Sales-Analysis-by-Python.git
-- [Excel Project](لینک ریپو)
+- [Excel Project]
