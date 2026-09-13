@@ -9,3 +9,4 @@
 - [Road Accident Analysis (Power BI)] https://github.com/imsmam99/Road-Accident-Analysis.git
 - [Sales Analysis (Python)] https://github.com/imsmam99/Sales-Analysis-by-Python.git
 - [Ecommercee Sales Analysis (Excel)] https://github.com/imsmam99/Ecommerce-Sales-Analysis-by-Excel.git
+- [Sales Analysis Dashboard (Excel)] https://github.com/imsmam99/Sales-Analytics-Dashboard-by-Excel.git
